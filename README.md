@@ -1,5 +1,5 @@
 ### Salut à toi !
-Je suis en train d'apprendre les languages C/C++ et essaie de faire des petits Homebrew pour 3DS. 🎮
+Je suis en train d'apprendre les languages C/C++.
 
 Je bidouille beaucoup avec Arch Linux et essaie de mettre en place des petits serveurs variés.
 
