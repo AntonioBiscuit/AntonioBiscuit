@@ -3,7 +3,7 @@ Je suis en train d'apprendre les languages C/C++.
 
 Je bidouille beaucoup avec Arch Linux et essaie de mettre en place des petits serveurs variés.
 
-Mon plus gros défi est d'arriver à coder un moteur de jeu 3D à partir de presque rien voire rien du tout qui respecte ces critères:
+Mon plus gros défi est d'arriver à coder un moteur de jeu 3D à partir de presque rien, voire rien du tout; qui respecte ces critères:
 - Utilise l'API Vulkan
 - Utilise C/C++
 - Capable de tourner sur une variété de bidules donc:
