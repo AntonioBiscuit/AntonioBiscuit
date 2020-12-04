@@ -6,7 +6,7 @@ Je bidouille beaucoup avec Arch Linux et essaie de mettre en place des petits se
 Mon plus gros défi est d'arriver à coder un moteur de jeu 3D à partir de presque qui respecte ces critères:
 - Utilise l'API Vulkan
 - Utilise C/C++
-- Cross-Platform au maximum possible
+- Cross-Platform au maximum possible (Linux, Windows...)
 - Cross-Architecture au maximum possible (ARMv6, ARMv7, ARMv8, x86_64...)
 - Capable de tourner sur une patate (limite du calibre d'un Raspberry Pi Zero)
 
