@@ -18,4 +18,4 @@ Objectif final: faire un petit jeu avec le moteur 3D fonctionnel
 
 Quêtes annexes: 
 - Intégrer des technologies et librairies de compression variées pour les assets
-- Faire un petit jeu 3D qui tient sur une disquette 3 1⁄2" (1.44MB), juste pour le délire
+- Faire tenir un petit jeu 3D sur une disquette 3 1⁄2" (1.44MB), juste pour le délire
