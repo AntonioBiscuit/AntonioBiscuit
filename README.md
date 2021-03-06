@@ -17,6 +17,6 @@ Troisième objectif: charger d'autres modèles qu'un cube, ou plus généralemen
 Objectif final: faire un petit jeu avec le moteur 3D fonctionnel
 
 Quêtes annexes: 
-- Intégrer des technologies et librairies de compression variées pour les assets pour optimiser le chargement et l'espace
+- Intégrer des librairies de compression variées pour optimiser le chargement et l'espace
 - Faire tenir un petit jeu 3D sur une disquette 3 1⁄2" (1.44MB), juste pour le délire
 - Faire tourner le jeu sur un Raspberry Pi Zero à un frame rate acceptable (à voir si le "driver" Vulkan tient suffisamment la route)
