@@ -11,10 +11,11 @@ Mon plus gros défi est d'arriver à coder un moteur de jeu 3D à partir de pres
   - Cross-Architecture au maximum possible (ARMv6, ARMv7, ARMv8, x86_64, RISC-V...)
   - Capable de tourner sur une patate
 
-Premier objectif: afficher un piti cube qui tourne  
-Deuxième objectif: appliquer des textures sur le cube  
-Troisième objectif: charger d'autres modèles qu'un cube, ou plus généralement, n'importe quel modèle au format .obj  
-Objectif final: faire un petit jeu avec le moteur 3D fonctionnel
+Objectifs:
+- 1 : afficher un piti cube qui tourne  
+- 2 : appliquer des textures sur le cube  
+- 3 : charger d'autres modèles qu'un cube, ou plus généralement, n'importe quel modèle au format .obj  
+- 4 : faire un petit jeu avec le moteur 3D fonctionnel
 
 Quêtes annexes: 
 - Intégrer des librairies de compression variées pour optimiser le chargement et l'espace
