@@ -13,7 +13,7 @@ Mon plus gros défi est d'arriver à coder un moteur de jeu 3D à partir de pres
 
 Premier objectif: afficher un piti cube qui tourne  
 Deuxième objectif: appliquer des textures sur le cube  
-Troisième objectif: charger d'autres modèles qu'un cube, ou plus généralement, n'importe quel modèle au format .obj
+Troisième objectif: charger d'autres modèles qu'un cube, ou plus généralement, n'importe quel modèle au format .obj  
 Objectif final: faire un petit jeu avec le moteur 3D fonctionnel
 
 Quêtes annexes: 
